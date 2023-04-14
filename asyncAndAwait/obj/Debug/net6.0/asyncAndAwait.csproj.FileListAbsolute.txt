@@ -1,0 +1,15 @@
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\bin\Debug\net6.0\asyncAndAwait.exe
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\bin\Debug\net6.0\asyncAndAwait.deps.json
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\bin\Debug\net6.0\asyncAndAwait.runtimeconfig.json
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\bin\Debug\net6.0\asyncAndAwait.dll
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\bin\Debug\net6.0\asyncAndAwait.pdb
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\obj\Debug\net6.0\asyncAndAwait.csproj.AssemblyReference.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\obj\Debug\net6.0\asyncAndAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\obj\Debug\net6.0\asyncAndAwait.AssemblyInfoInputs.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\obj\Debug\net6.0\asyncAndAwait.AssemblyInfo.cs
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\obj\Debug\net6.0\asyncAndAwait.csproj.CoreCompileInputs.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\obj\Debug\net6.0\asyncAndAwait.dll
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\obj\Debug\net6.0\refint\asyncAndAwait.dll
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\obj\Debug\net6.0\asyncAndAwait.pdb
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\obj\Debug\net6.0\asyncAndAwait.genruntimeconfig.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\asyncAndAwait\asyncAndAwait\obj\Debug\net6.0\ref\asyncAndAwait.dll
